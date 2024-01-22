@@ -1,6 +1,6 @@
 // service-worker.js
 
-const cacheName = 'my-pwa-cache-v1';
+const cacheName = 'my-blank-pwa-cache-v1';
 
 // Liste des ressources à mettre en cache
 const resourcesToCache = [
