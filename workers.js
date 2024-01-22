@@ -5,10 +5,7 @@ const cacheName = 'my-blank-pwa-cache-v1';
 // Liste des ressources à mettre en cache
 const resourcesToCache = [
   '/',
-  'index.html',
- // 'styles.css',
- // 'app.js',
- // 'images/logo.png',
+  'index.html'
   // Ajoutez ici toutes les ressources que vous souhaitez mettre en cache
 ];
 
